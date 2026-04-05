@@ -1,0 +1,2 @@
+- [No internal docs in profile](feedback_no_internal_docs.md) — don't expose architecture/internal docs in public README
+- [Batch changes](feedback_batch_changes.md) — don't commit after every small edit, batch into meaningful commits
