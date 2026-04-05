@@ -14,17 +14,6 @@ I care about clean module boundaries, strict dependency layers, and software tha
 
 **[ConvoSearch](https://convosearch.com)** — A Shopify app that replaces catalog browsing with conversational product discovery. Customers describe what they need; the app understands intent, searches inventory, and guides the purchase — no filters, no dropdowns, just dialogue.
 
-
-<details open>
-<summary><strong>Architecture principles</strong></summary>
-<br>
-
-- **Layered modules with one-way dependencies.** Core → services → API adapters. Never upward.
-- **Interface contracts before code.** If two modules talk, the contract is documented first.
-- **Ship the system, not the script.** Background workers, orchestration engines, and async pipelines — not cron jobs held together with hope.
-
-</details>
-
 ---
 
 <p align="center">
