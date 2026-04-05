@@ -25,7 +25,13 @@ I care about clean module boundaries, strict dependency layers, and software tha
 
 ### What I think about
 
-Nuclear energy. Systems that compound. The difference between value creation and value capture. Why some things hold substance over decades and others evaporate the moment attention shifts. I'm drawn to infrastructure — physical and digital — that's built to endure, not to demo well.
+**Nuclear energy.** The only energy source where the waste problem is political, not technical. A single fuel pellet holds the energy of a ton of coal, and we're still arguing about whether to use it. SMRs, molten salt, thorium cycles — the next generation of reactors solves problems most people don't know the current ones already solved. I follow this space closely because it's the clearest example of engineering capability outpacing institutional willingness.
+
+**Systems that compound.** Flywheels over funnels. The best systems get better with every cycle — each input makes the next output stronger. This shapes how I build software: every user interaction should deepen a knowledge layer, not just complete a transaction. If your system resets to zero after every use, you don't have a product — you have a tool.
+
+**Value creation vs. value capture.** Most of tech optimizes for capture — extracting from an existing pie. Creation is harder: building something that didn't exist, for people who didn't know they needed it. I'm interested in businesses where the two stay tightly coupled — where you only capture value because you're genuinely creating it, not because you've locked someone in.
+
+**Substance over shine.** I gravitate toward things that hold up under scrutiny — infrastructure that works at 3am, writing that's still relevant in five years, products people use because they're good, not because they're marketed well. If it needs a hype cycle to survive, it was never real.
 
 ---
 
