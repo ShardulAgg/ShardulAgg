@@ -10,9 +10,9 @@ I care about clean module boundaries, strict dependency layers, and software tha
 
 ### What I'm building
 
-**CloutFarm** — A marketing agency platform where AI agents and human expertise produce content together. Three production engines (LinkedIn Studio, TikTok/Instagram, Serialized Stories), each with a different service model — from high-touch collaborative writing to fully automated SEO pipelines. The core thesis: every customer interaction deepens a shared knowledge layer, and every engine's output gets better because of it. Strategy conversations, interview transcripts, draft edits, performance data — all feed back into the system. The flywheel is the product.
+**[CloutFarm](https://cloutfarm.ai)** — A marketing agency platform where AI agents and human expertise produce content together. Three production engines (LinkedIn Studio, TikTok/Instagram, Serialized Stories), each with a different service model — from high-touch collaborative writing to fully automated SEO pipelines. The core thesis: every customer interaction deepens a shared knowledge layer, and every engine's output gets better because of it. Strategy conversations, interview transcripts, draft edits, performance data — all feed back into the system. The flywheel is the product.
 
-**ConvoSearch** — A Shopify app that replaces catalog browsing with conversational product discovery. Customers describe what they need; the app understands intent, searches inventory, and guides the purchase — no filters, no dropdowns, just dialogue.
+**[ConvoSearch](https://convosearch.com)** — A Shopify app that replaces catalog browsing with conversational product discovery. Customers describe what they need; the app understands intent, searches inventory, and guides the purchase — no filters, no dropdowns, just dialogue.
 
 
 <details open>
