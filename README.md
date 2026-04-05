@@ -29,7 +29,7 @@ I care about clean module boundaries, strict dependency layers, and software tha
 
 **Systems that compound.** Flywheels over funnels. The best systems get better with every cycle — each input makes the next output stronger. This shapes how I build software: every user interaction should deepen a knowledge layer, not just complete a transaction. If your system resets to zero after every use, you don't have a product — you have a tool.
 
-**Value creation vs. value capture.** Most of tech optimizes for capture — extracting from an existing pie. Creation is harder: building something that didn't exist, for people who didn't know they needed it. I'm interested in businesses where the two stay tightly coupled — where you only capture value because you're genuinely creating it, not because you've locked someone in.
+**Value capture.** I care about metrics that hold — revenue, retention, depth of usage. Not vanity numbers that look good in a deck but collapse under pressure. If a metric doesn't translate to money, leverage, or compounding advantage, it's decoration. I build toward capture: systems where the value created is the value retained, not leaked to a platform or lost to churn.
 
 **Substance over shine.** I gravitate toward things that hold up under scrutiny — infrastructure that works at 3am, writing that's still relevant in five years, products people use because they're good, not because they're marketed well. If it needs a hype cycle to survive, it was never real.
 
