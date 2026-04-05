@@ -14,15 +14,6 @@ I care about clean module boundaries, strict dependency layers, and software tha
 
 **ConvoSearch** — A Shopify app that replaces catalog browsing with conversational product discovery. Customers describe what they need; the app understands intent, searches inventory, and guides the purchase — no filters, no dropdowns, just dialogue.
 
-### How I work
-
-**Vision first.** I start with the problem, write the PRD, define interface contracts, then build. Architecture decisions are documented before the first line of code.
-
-**AI as infrastructure.** I route across Claude, GPT, and Gemini through a unified model manager — swap providers without touching business logic. LLMs are plumbing, not the product.
-
-**Systems over scripts.** Temporal for orchestration, Celery for background work, async pipelines for everything else. If it runs on a cron and a prayer, I haven't built it yet.
-
-**Full vertical ownership.** React + Next.js on the front. FastAPI + SQLAlchemy on the back. Stripe for money. Firebase for auth. Vercel + Sentry for ops. One person, zero handoffs.
 
 <details open>
 <summary><strong>Architecture principles</strong></summary>
