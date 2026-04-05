@@ -10,26 +10,26 @@ I care about clean module boundaries, strict dependency layers, and software tha
 
 ### What I'm building
 
-- **CloutFarm** — AI-powered creative engine for social media. Multi-agent orchestration (Temporal), multi-LLM routing (Claude, GPT, Gemini), platform integrations (LinkedIn, TikTok, Instagram), Stripe billing. Five apps, one person.
-- **ConverseCart** — Shopify app for conversational commerce. Remix + Prisma + Shopify APIs.
+**CloutFarm** — A marketing agency platform where AI agents and human expertise produce content together. Three production engines (LinkedIn Studio, TikTok/Instagram, Serialized Stories), each with a different service model — from high-touch collaborative writing to fully automated SEO pipelines. The core thesis: every customer interaction deepens a shared knowledge layer, and every engine's output gets better because of it. Strategy conversations, interview transcripts, draft edits, performance data — all feed back into the system. The flywheel is the product.
+
+**ConvoSearch** — A Shopify app that replaces catalog browsing with conversational product discovery. Customers describe what they need; the app understands intent, searches inventory, and guides the purchase — no filters, no dropdowns, just dialogue.
 
 ### How I work
 
-```
-Frontend    React 19 · Next.js · Vite · Tailwind
-Backend     FastAPI · async SQLAlchemy · Celery · Temporal
-AI/LLM      Claude · GPT · Gemini · multi-model orchestration
-Infra       Firebase · Stripe · Vercel · Sentry
-Data        PostgreSQL · Prisma
-```
+**Vision first.** I start with the problem, write the PRD, define interface contracts, then build. Architecture decisions are documented before the first line of code.
 
-<details>
-<summary><strong>Architecture principles I follow</strong></summary>
+**AI as infrastructure.** I route across Claude, GPT, and Gemini through a unified model manager — swap providers without touching business logic. LLMs are plumbing, not the product.
+
+**Systems over scripts.** Temporal for orchestration, Celery for background work, async pipelines for everything else. If it runs on a cron and a prayer, I haven't built it yet.
+
+**Full vertical ownership.** React + Next.js on the front. FastAPI + SQLAlchemy on the back. Stripe for money. Firebase for auth. Vercel + Sentry for ops. One person, zero handoffs.
+
+<details open>
+<summary><strong>Architecture principles</strong></summary>
 <br>
 
 - **Layered modules with one-way dependencies.** Core → services → API adapters. Never upward.
 - **Interface contracts before code.** If two modules talk, the contract is documented first.
-- **AI as infrastructure, not a feature.** LLM clients are singletons behind a model manager — swap providers without touching business logic.
 - **Ship the system, not the script.** Background workers, orchestration engines, and async pipelines — not cron jobs held together with hope.
 
 </details>
