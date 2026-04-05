@@ -23,5 +23,11 @@ I care about clean module boundaries, strict dependency layers, and software tha
 
 ---
 
+### What I think about
+
+Nuclear energy. Systems that compound. The difference between value creation and value capture. Why some things hold substance over decades and others evaporate the moment attention shifts. I'm drawn to infrastructure — physical and digital — that's built to endure, not to demo well.
+
+---
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/ShardulAgg)
 [![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/shardulaggarwal)
